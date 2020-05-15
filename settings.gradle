@@ -1,0 +1,5 @@
+rootProject.name='AptProcessor'
+include ':app'
+include ':processor'
+include ':inject'
+include ':annotation'
